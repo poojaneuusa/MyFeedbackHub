@@ -12,6 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## About the project
 MyFeedbackHub - Full-Stack Web Application
+
 Implemented User Authentication & Security: Integrated NextAuth.js for secure user authentication, using credential-based login and JWT tokens to manage user sessions, with bcryptjs for password hashing and Zod schema validation for input validation.
 
 Anonymous Feedback System with GPT-3: Developed an anonymous feedback platform using OpenAI GPT-3 for dynamic and engaging question generation, allowing users to send and receive feedback while maintaining privacy.
